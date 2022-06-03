@@ -2,4 +2,9 @@
 *.iws
 *.iml
 *.ipr
-
+HELP.md
+mvnw
+mvnw.cmd
+target
+target/*
+.mvn

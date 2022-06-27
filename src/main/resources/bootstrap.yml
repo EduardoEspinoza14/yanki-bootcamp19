@@ -1,0 +1,10 @@
+spring:
+  application:
+    name: yanki
+  cloud:
+    config:
+      uri: http://localhost:8081
+      username: bootcamp19
+      password: b00tc4mp19
+      profile: local
+
